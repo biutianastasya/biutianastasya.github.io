@@ -45,8 +45,8 @@ A 3D animation project that visualizes the new student registration flow at Univ
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](www.linkedin.com/in/biuti-anastasya)
-- 📧 Email: alifbiuti.anastasya@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/alif-biuti-anastasya-78b576211/)
+- 📧 Email: alifbiutigmail.com
 
 ---
 
