@@ -1,6 +1,6 @@
 # 👩‍💻 Alif Biuti Anastasya
 
-Hi! I'm a 6th-semester student at Universitas Mercu Buana, passionate about **Machine Learning**, **Data Science**, and **Web Development**. I love building real-world projects that combine smart systems and seamless user experiences. This repository showcases several of my projects built with various technologies.
+Hi! I'm a 7th-semester student at Universitas Mercu Buana, passionate about **Machine Learning**, **Data Science**, and **Web Development**. I love building real-world projects that combine smart systems and seamless user experiences. This repository showcases several of my projects built with various technologies.
 
 ---
 
